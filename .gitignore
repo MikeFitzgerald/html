@@ -1,6 +1,9 @@
 # Dependencies
 /node_modules
 
+# Published files
+/dist
+
 # IDEs and editors
 /.idea
 .project
