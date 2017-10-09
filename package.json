@@ -1,0 +1,23 @@
+{
+  "name": "html",
+  "version": "0.0.1",
+  "description": "Some working examples of HTML layouts using various techniques.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikefitzgerald/html.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikefitzgerald/html/issues"
+  },
+  "homepage": "https://github.com/mikefitzgerald/html#readme",
+  "devDependencies": {
+    "finalhandler": "^1.1.0",
+    "serve-static": "^1.13.1"
+  }
+}
